@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.pinterest.com%2Fpin%2F805159239637494045%2F&psig=AOvVaw1nY6Drqpb8KYJcaJNhDovI&ust=1720612901517000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCSiez0mYcDFQAAAAAdAAAAABAE)
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.pinterest.com%2Fpin%2F805159239637494045%2F&psig=AOvVaw1nY6Drqpb8KYJcaJNhDovI&ust=1720612901517000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCSiez0mYcDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Sude Türkdoğan</h1>
 <h3 align="center">A Computer Programmer from Türkiye</h3>
 
