@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **turkdogansude@gmail.com**
 
-- ⚡ Fun fact **Bence ben girişken ve öğrenmeye istekli biriyim.**
+- ⚡ Fun fact **Alanımda girişken,tutarlı,disiplinli ve öğrenmeye istekliyimdir.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
